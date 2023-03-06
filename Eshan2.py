@@ -84,16 +84,16 @@ tred = speed
 
 	
 logo= f'''
-{G}  ¦¦¦¦¦¦¦        ¦¦    ¦¦  
-{R}  ¦¦             ¦¦    ¦¦
-{Y}  ¦¦¦¦¦¦¦        ¦¦¦¦¦¦¦¦ 
-{S}  ¦¦             ¦¦    ¦¦
-{uu} ¦¦¦¦¦¦¦  ¦¦    ¦¦    ¦¦
+{G}  Â¦Â¦Â¦Â¦Â¦Â¦Â¦    Â¦Â¦   Â¦Â¦
+{R}  Â¦Â¦         Â¦Â¦   Â¦Â¦
+{Y}  Â¦Â¦Â¦Â¦Â¦      Â¦Â¦Â¦Â¦Â¦Â¦Â¦
+{S}  Â¦Â¦         Â¦Â¦   Â¦Â¦
+{uu} Â¦Â¦Â¦Â¦Â¦Â¦Â¦ Â¦Â¦ Â¦Â¦   Â¦Â¦
 \033[1;93m=================================
-\033[1;97m Owner  : Eshan Sheikh :/
+\033[1;97m Owner  : Sheikh Eshan :/
 \033[1;97m GitHub : Eshan2544 :/
 \033[1;97m Version:\033[1;92m 0.8 \033[1;97m:/
-\033[1;97m Status : Free :/
+\033[1;97m Status : Paid :/
 \033[1;97m Notice : Use 10007/10006 For More OK Ids :/
 \033[1;93m=================================
 '''
@@ -271,7 +271,7 @@ def method():
     print('\033[1;93m='*25)
     print(f'{oo("?")}Total Ids : \033[1;92m'+str(len(accounts)))
     print(f"{oo('-')}Wait As You Can :)")
-    print(f"{oo('•')}/sdcard/Eshan2544-OK.txt")
+    print(f"{oo('â€¢')}/sdcard/Hannan-OK.txt")
     print('\033[1;93m='*25)
     print()
     
